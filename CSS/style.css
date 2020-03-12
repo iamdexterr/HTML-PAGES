@@ -1,2 +1,23 @@
 /*Import font.css*/
 @import url(./font.css);
+
+/*Start navigation*/
+    
+.header_area .main-menu .navbar .navbar-brand{
+    
+    padding: 0 2rem 0 5rem;
+    
+}
+
+.header_area .main-menu .navbar{
+    padding: 1rem 10rem;
+}
+
+.header_area .main-menu .nav-item .nav-link{
+    font-family: 'Roboto',cursive;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: black;
+    padding: 1rem;
+} 
+/*Start navigation*/
